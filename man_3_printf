@@ -68,3 +68,6 @@ This example prints a number("%d"), a string("%s") and character("%c") sent as a
 .I printf(3). putchar().
 .SH BUGS
 No known bugs.
+.SH AUTHOR
+Leslie Ochieng
+Easter Mukora
